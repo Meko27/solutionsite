@@ -1,9 +1,20 @@
 # *
 User-agent: *
-Allow: /
+Disallow: /home
+Disallow: /impressum
+Disallow: /datenschutzerklaerung
+Disallow: /agb
+Disallow: /contact
+
+# *
+User-agent: *
+Disallow: /home
+Disallow: /impressum
+Disallow: /datenschutzerklaerung
+Disallow: /agb
 
 # Host
-Host: https://example.com
+Host: https://solution.enklar.de
 
 # Sitemaps
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://solution.enklar.de/sitemap.xml

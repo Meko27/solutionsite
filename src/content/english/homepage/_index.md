@@ -35,8 +35,8 @@ features:
       - "**Datenqualität & -verwaltung:** Sicherstellung, dass Ihre Daten genau, vollständig und konsistent sind."
       - "**Big Data Technologien:** Implementierung von Lösungen wie Apache Hadoop und Spark zur Verarbeitung riesiger Datenmengen in Echtzeit."
     button:
-      enable: true
-      label: "Get Started Now"
+      enable: false
+      label: "Jetzt anfragen"
       link: "https://heyflow.id/solution#start"
 
   - title: "Web-Applikationen"
