@@ -1,51 +1,65 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Next Project"
-  content: "Nextplate is a free starter template built with Next and TailwindCSS, providing everything you need to jumpstart your Next project and save valuable time."
+  title: "Deine digitale Transformation beginnt hier"
+  content: "Wir entwickeln maßgeschneiderte Softwarelösungen, die dein Unternehmen smarter und effizienter machen."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/nextplate"
+    label: "Jetzt unverbindlich anfragen"
+    link: "https://heyflow.id/solution#start"
 
 # Features
 features:
-  - title: "What's Included in Nextplate"
+  - title: "Data Science"
     image: "/images/service-1.png"
-    content: "Nextplate is a comprehensive starter template that includes everything you need to get started with your Next project. What's Included in Nextplate"
+    content: "Unser Data-Science-Team verwandelt Rohdaten in wertvolle Geschäftsinformationen, die fundierte Entscheidungen ermöglichen und Wettbewerbsvorteile schaffen."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Next and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "**Datenanalyse & -visualisierung:** Identifizieren und visualisieren Sie Muster und Trends in Ihren Daten, um neue Geschäftsstrategien zu entwickeln."
+      - "**Predictive Analytics:** Vorhersage zukünftiger Ereignisse und Trends mithilfe von Machine Learning und statistischen Modellen."
+      - "**Künstliche Intelligenz & Machine Learning:** Entwicklung maßgeschneiderter KI-Lösungen, die sich an Ihre spezifischen Anforderungen anpassen."
+      - "**Natural Language Processing (NLP):** Verarbeiten und verstehen Sie natürliche Sprache aus Text- und Sprachdaten."
+      - "**Automatisierte Entscheidungsfindung:** Reduzieren Sie manuelle Eingriffe durch automatisierte Entscheidungsmodelle und Algorithmen."
     button:
       enable: false
-      label: "Get Started Now"
+      label: "Jetzt unverbindlich anfragen"
       link: "#"
 
-  - title: "Discover the Key Features Of Next"
+  - title: "Data Engineering"
     image: "/images/service-2.png"
-    content: "Next is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "Wir schaffen die Infrastruktur, die es Ihnen ermöglicht, große Datenmengen effizient zu speichern, zu verarbeiten und zu analysieren."
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "**Datenarchitektur & -modellierung:** Aufbau robuster Dateninfrastrukturen, die den Anforderungen Ihres Unternehmens entsprechen."
+      - "**Datenintegration:** Nahtlose Integration verschiedener Datenquellen (z.B. Cloud-Datenbanken, APIs) in ein zentrales System."
+      - "**ETL-Prozesse (Extract, Transform, Load):** Entwicklung von Pipelines für das Extrahieren, Transformieren und Laden von Daten, um reibungslose Workflows zu gewährleisten."
+      - "**Datenqualität & -verwaltung:** Sicherstellung, dass Ihre Daten genau, vollständig und konsistent sind."
+      - "**Big Data Technologien:** Implementierung von Lösungen wie Apache Hadoop und Spark zur Verarbeitung riesiger Datenmengen in Echtzeit."
     button:
       enable: true
       label: "Get Started Now"
-      link: "https://github.com/zeon-studio/nextplate"
+      link: "https://heyflow.id/solution#start"
 
-  - title: "The Top Reasons to Choose Next for Your Next Project"
+  - title: "Web-Applikationen"
     image: "/images/service-3.png"
-    content: "With Next, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "Wir entwickeln skalierbare Webanwendungen, die Ihr Unternehmen dabei unterstützen, innovative digitale Produkte zu liefern und Geschäftsprozesse zu optimieren."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Next a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "**API-Entwicklung & -Integration:** Erstellung von sicheren und leistungsfähigen APIs zur Integration von Drittanbieterdiensten und Systemen."
+      - "**Cloud-native Anwendungen:** Bereitstellung skalierbarer und leistungsstarker Anwendungen, die in der Cloud gehostet und betrieben werden."
+      - "**E-Commerce Lösungen:** Erstellung von E-Commerce-Plattformen, die sicher, zuverlässig und benutzerfreundlich sind."
+      - "**Content-Management-Systeme (CMS):** Entwicklung und Anpassung von CMS-Lösungen wie WordPress, Drupal oder Joomla für eine effiziente Verwaltung Ihrer Inhalte."
+    button:
+      enable: false
+      label: ""
+      link: ""
+
+  - title: "Beratung & Technische Strategie"
+    image: "/images/service-4.png"
+    content: "Neben der reinen Entwicklung bieten wir auch umfassende Beratung und Unterstützung bei der technischen Strategie an."
+    bulletpoints:
+      - "**Technologie-Beratung:** Beratung bei der Auswahl und Implementierung von Technologien, die Ihren Anforderungen am besten entsprechen."
+      - "**Digitalisierungsstrategie:** Unterstützung bei der Planung und Umsetzung Ihrer digitalen Transformation."
+      - "**IT-Projektmanagement:** Leitung und Betreuung von IT-Projekten von der Konzeption bis zur Fertigstellung."
+      - "**Sicherheitsberatung:** Sicherstellung, dass Ihre Anwendungen und Daten den neuesten Sicherheitsstandards entsprechen und vor Cyberbedrohungen geschützt sind."
     button:
       enable: false
       label: ""

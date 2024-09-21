@@ -1,10 +1,10 @@
 ---
 enable: true
-title: "Ready to build your next project with Next?"
-image: "/images/call-to-action.png"
-description: "Experience the future of web development with Nextplate and Next. Build lightning-fast static sites with ease and flexibility."
+title: "Fortschritt geht am besten gemainsam."
+image: "/images/customer_offer.png"
+description: "Fragen Sie uns unverbindlich an, um in einem Termin mit einem unserer Experten Ihr Digitaliserungs-Vorhaben zu besprechen."
 button:
   enable: true
-  label: "Get Started Now"
-  link: "https://github.com/zeon-studio/nextplate"
+  label: "Jetzt anfragen"
+  link: "https://heyflow.id/solution#start"
 ---

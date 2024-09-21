@@ -1,39 +1,39 @@
 {
   "site": {
-    "title": "Nextplate",
-    "base_url": "https://nextplate.netlify.app",
+    "title": "Enklar Solution",
+    "base_url": "https://solution.enklar.de",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
-    "logo_darkmode": "/images/logo-darkmode.png",
+    "logo_darkmode": "/images/logo.png",
     "logo_width": "150",
-    "logo_height": "27",
-    "logo_text": "Nextplate"
+    "logo_height": "50",
+    "logo_text": "Enklar Solution"
   },
 
   "settings": {
     "search": true,
     "sticky_header": true,
-    "theme_switcher": true,
-    "default_theme": "light",
+    "theme_switcher": false,
+    "default_theme": "dark",
     "pagination": 2,
     "summary_length": 200,
     "blog_folder": "blog",
     "default_language": "en",
-    "disable_languages": [],
+    "disable_languages": ["fr"],
     "default_language_in_subdir": false
   },
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Designed And Developed by [Zeon Studio](https://zeon.studio)"
+    "copyright": "© 2024 Enklar GmbH"
   },
 
   "navigation_button": {
     "enable": true,
-    "label": "Get Started",
-    "link": "https://github.com/zeon-studio/nextplate"
+    "label": "Jetzt anfragen",
+    "link": "https://heyflow.id/solution#start"
   },
 
   "disqus": {
@@ -43,8 +43,8 @@
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
-    "meta_image": "/images/og-image.png",
-    "meta_description": "Next Boilerplate"
+    "meta_author": "Enklar GmbH",
+    "meta_image": "/images/logo.png",
+    "meta_description": "Enklar GmbH"
   }
 }
