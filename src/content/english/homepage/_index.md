@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Jetzt unverbindlich anfragen"
-    link: "https://heyflow.id/solution#start"
+    link: "https://solution.enklar.de/hey"
 
 # Features
 features:
@@ -37,7 +37,7 @@ features:
     button:
       enable: false
       label: "Jetzt anfragen"
-      link: "https://heyflow.id/solution#start"
+      link: "https://solution.enklar.de/hey"
 
   - title: "Web-Applikationen"
     image: "/images/service-3.png"

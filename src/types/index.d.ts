@@ -85,3 +85,14 @@ export interface INavigationLink {
   hasChildren?: boolean;
   children?: IChildNavigationLink[];
 }
+
+declare namespace JSX {
+  interface IntrinsicElements {
+    'heyflow-wrapper': React.DetailedHTMLProps<React.HTMLAttributes<HTMLElement>, HTMLElement> & {
+      'flow-id'?: string;
+      'dynamic-height'?: boolean;
+      'scroll-up-on-navigation'?: boolean;
+      'style-config'?: string;
+    };
+  }
+}

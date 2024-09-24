@@ -6,5 +6,5 @@ description: "Fragen Sie uns unverbindlich an, um in einem Termin mit einem unse
 button:
   enable: true
   label: "Jetzt anfragen"
-  link: "https://heyflow.id/solution#start"
+  link: "https://solution.enklar.de/hey"
 ---
